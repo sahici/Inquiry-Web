@@ -24,10 +24,6 @@ Inquiry, belirtilen alan adları üzerinde çeşitli keşif görevleri gerçekle
 git clone https://github.com/sahici/Inquiry-Web.git
 cd Inquiry-Web
 pip3 install -r requirements.txt
-```
-
-## Kullanım Talimatı
-```bash
 streamlit run web.py
 ```
 
