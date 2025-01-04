@@ -33,4 +33,4 @@ streamlit run web.py
 
 - ## İletişim
 - Linkedin: https://www.linkedin.com/in/yasinyasarai/
-- İnstagram: https://www.instagram.com/yyasar.yasin/
+- Instagram: https://www.instagram.com/yyasar.yasin/
