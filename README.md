@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/sahici/Inquiry"><img src="https://raw.githubusercontent.com/sahici/sahici/refs/heads/main/inquiry.jpg" alt="Inquiry" width="400" height="400"></a>
   <br>
-  Inquiry
+  Inquiry-Web
   <br>
 </h1>
 
